@@ -11,8 +11,8 @@ import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.Qualities
 
 class Dizilla : MainAPI() {
-    override var mainUrl            = "https://dizilla.club"
-    override var name               = "Dizilla"
+    override var mainUrl            = "https://dizikorea.tv"
+    override var name               = "Dizikorea"
     override val hasMainPage        = true
     override var lang               = "tr"
     override val hasQuickSearch     = false
